@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">KSRCT Circulars</string>
+    <string name="registor_number">Register Number</string>
+    <string name="login">Sign In</string>
+    <string name="password">Password</string>
+    <string name="k_s_rangasamy_college_of_technology">K.S.Rangasamy College of Technology</string>
+    <string name="need_a_new_account">Need a New Account? Sign Up</string>
+    <string name="todo">TODO</string>
+    <string name="aut">(An autonomous institution)</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="register">Register</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forget_password">Forget password?</string>
+    <string name="sign_in">Sign In</string>
+    <string name="reg_sus">Registration success</string>
+
+
+    <string name="reg_fail">Registration Failed</string>
+    <string name="ald_have">Already have an account? Sign in</string>
+    <string name="ksrct">KSRCT</string>
+    <string name="logout">Logout</string>
+    <string name="search">search</string>
+    <string name="feedback">Feedback</string>
+    <string name="type_here">type here…</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="msgsent">Message sent</string>
+    <string name="msgnotsent">Message not sent</string>
+    <string name="date">date</string>
+    <string name="about">About</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="app_info">app-info</string>
+    <string name="m_shankar54321_gmail_com">m.shankar54321@gmail.com</string>
+    <string name="e_mail">E-mail</string>
+    <string name="nano_science_and_technology">Nano Science and Technology</string>
+    <string name="department">Department</string>
+    <string name="shankar_m">Shankar M</string>
+    <string name="developer">Developer</string>
+
+</resources>
